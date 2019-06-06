@@ -2,8 +2,8 @@
 
 # The purpose of this code is to create the classifiers that both the
 # attacker and defender will use in the experiments
-# Defender classifier reaches accuracy of
-# Attacker classifier reaches accuracy of
+# Defender classifier reaches accuracy of 88.80%
+# Attacker classifier reaches accuracy of 89.41%
 
 import numpy as np
 import keras

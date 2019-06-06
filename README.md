@@ -1,6 +1,6 @@
 # fgs_dae_defense
 
-The code presented here supplements the material presented in the IEEE Signal Processing Letter: A Compulationally Efficient Method for Defending Adversarial Machine Learning Attacks. 
+The code presented here supplements the material presented in the IEEE Signal Processing Letter: A Compulationally Efficient Method for Defending Adversarial Deep Learning Attacks. 
 
 The code in this repository presents a defense against the Fast Gradient Sign adversarial attack using denoising autoencoders. This defense is demonstrated on both the MNIST Digit Dataset and the Fashion MNIST Dataset. These datasets will be automatically downloaded the first time the code is run. 
 

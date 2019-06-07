@@ -4,7 +4,7 @@ The code presented here supplements the material presented in the IEEE Signal Pr
 
 The code in this repository presents a defense against the Fast Gradient Sign adversarial attack using denoising autoencoders. This defense is demonstrated on both the MNIST Digit Dataset and the Fashion MNIST Dataset. These datasets will be automatically downloaded the first time the code is run. 
 
-To run this code, the folloiwng packages must be installed: 
+To run this code, the following packages must be installed: 
 
 Cleverhans - v. 2.1.0
 TensorFlow - v. 2.2.4
